@@ -2,6 +2,8 @@
 #' 
 #' Reverse returns a copy of a vector whose elements are in 
 #' the reverse order. The end.
+#' 
+#' See also \code{\link{rev}}
 #'
 #' @param x 
 #'
